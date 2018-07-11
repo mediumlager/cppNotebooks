@@ -3,7 +3,7 @@ This repository contains all the necessary files to use Jupyter
 Notebooks with C++
 
 To create a Jupyter Notebook using C++(11, 14 or 17 at this moment 11.7.2018)
-just open this repository on mybinder.org (at this moment conda doesn't support C++),
+just open this repository on mybinder.org (at this moment Colab doesn't support C++),
 choose
 ```
 new -> notebook -> C++
