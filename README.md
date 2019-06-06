@@ -12,6 +12,5 @@ and you have a notebook that understands C++.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mediumlager/cppNotebooks/master)
 
-Note: Launching the server using C++ kernel takes a bit longer than with Python
-
+Note: Launching the server using C++ kernel takes longer than with Python
 
